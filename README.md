@@ -1,6 +1,6 @@
 # Python_Intern_Assignment
 
-#✔ Requirements
+✔# Requirements
 1. Python 3.12.2
 2. pip install pymongo==4.6.2 - MongoDB Python Driver
 3. MongoDB 7.0 - Database Server
